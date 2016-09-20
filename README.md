@@ -2,4 +2,5 @@
 
 0.0.9.7 (50)
 
-itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/5ws39miprfnpotj/ADTCapsHomeApp.plist
+Click [here](itms-services://?action=download-manifest&url=https://dl.dropboxusercontent.com/s/5ws39miprfnpotj/ADTCapsHomeApp.plist) to install.
+
