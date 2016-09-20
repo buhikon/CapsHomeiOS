@@ -2,6 +2,6 @@
 
 0.0.9.7 (50)
 
-[install](http://tinyurl.com/goyqsdv)
+click [HERE](http://tinyurl.com/goyqsdv) to install the app.
 
 
